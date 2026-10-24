@@ -1,6 +1,9 @@
 # nictop
 
-Python project managed with [uv](https://docs.astral.sh/uv/).
+btop-style network interface traffic monitor with a tiling TUI, built on
+[Textual](https://textual.textualize.io/) and managed with [uv](https://docs.astral.sh/uv/).
+
+![nictop demo](docs/demo.gif)
 
 ## Setup
 
